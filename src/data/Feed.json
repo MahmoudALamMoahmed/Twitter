@@ -1,0 +1,43 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "verified": false,
+      "avatarurl": "IMG-20180906-WA0035.jpg",
+      "name": "Mahmoud",
+      "time": "1h",
+      "text": "اخيرا خلصت اخر تاسك في المنحه",
+      "image": "Screenshot 2024-09-13 205343.png",
+      "view": 1000,
+      "like": 200,
+      "comment": 500,
+      "retweet": 20
+    },
+    {
+      "id": 4,
+      "verified": true,
+      "avatarurl": "x.jpeg",
+      "name": "Ahmed",
+      "time": "8h",
+      "text": "meme",
+      "image": "hqdefault.jpg",
+      "view": 7000,
+      "like": 10,
+      "comment": 400,
+      "retweet": 5000
+    },
+    {
+      "id": 2,
+      "verified": false,
+      "avatarurl": "IMG-20180906-WA0035.jpg",
+      "name": "Sayed",
+      "time": "3h",
+      "text": "After finished from final project",
+      "image": "123.jpg",
+      "view": 7000,
+      "like": 500,
+      "comment": 400,
+      "retweet": 1000
+    }
+  ]
+}

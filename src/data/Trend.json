@@ -1,0 +1,40 @@
+{
+  "trend": [
+    {
+      "id": 1,
+      "trendlocation": "Egypt",
+      "trendname": "Hello Hello",
+      "trendtweetcount": 100
+    },
+    {
+      "id": 2,
+      "trendlocation": "Kuwait",
+      "trendname": "Hello Hello",
+      "trendtweetcount": 200
+    },
+    {
+      "id": 3,
+      "trendlocation": "sauid",
+      "trendname": "Hello Hello",
+      "trendtweetcount": 300
+    },
+    {
+      "id": 4,
+      "trendlocation": "lebia",
+      "trendname": "Hello Hello",
+      "trendtweetcount": 400
+    },
+    {
+      "id": 5,
+      "trendlocation": "iraq",
+      "trendname": "Hello Hello",
+      "trendtweetcount": 500
+    },
+    {
+      "id": 6,
+      "trendlocation": "",
+      "trendname": "Hello Hello",
+      "trendtweetcount": 600
+    }
+  ]
+}
